@@ -5,3 +5,6 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 hyperf/hyperf:8.1-alpine-v3.18-swoole
+php:8.1
+php:7.4
+redis:5.0
